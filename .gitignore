@@ -1,0 +1,39 @@
+# Tool-generated project data
+.Xil/
+*.jou
+*.log
+*.str
+*.wdb
+
+# Vivado / Vitis / HLS generated outputs
+*.runs/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.sim/
+*.sdk/
+*.xpr
+*.xsa
+*.hwh
+*.bit
+*.ltx
+solution*/
+Debug/
+Release/
+
+# Build artifacts
+*.o
+*.d
+*.a
+*.elf
+*.map
+
+# Local editor files
+.vscode/
+.idea/
+
+# Generated image data from experiments
+*.png
+*.jpg
+*.jpeg
+*.bmp
